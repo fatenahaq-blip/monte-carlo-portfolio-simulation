@@ -1,9 +1,9 @@
 # Monte Carlo Portfolio Simulation
 
-[![Open In Colab]
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/fatenahaq-blip/monte-carlo-portfolio-simulation/blob/main/notebooks/monte_carlo_portfolio_simulation.ipynb)
 https://github.com/fatenahaq-blip/monte-carlo-portfolio-simulation
 
-https://github.com/fatenahaq-blip/monte-carlo-portfolio-simulation/blob/main/notebooks/monte_carlo_portfolio_simulation.ipynb
+https://github.com/fatenahaq-blip/monte-carlo-portfolio-simulation/blob/main/monte_carlo_portfolio_simulation.ipynb
 
 ## Overview
 
